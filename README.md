@@ -6,7 +6,7 @@ My most proud accomplishment is my (Livery Manager)[https://github.com/RagingLig
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagingLightning)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagingLightning&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RagingLightning/RagingLightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
