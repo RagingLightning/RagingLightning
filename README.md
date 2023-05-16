@@ -1,10 +1,10 @@
 ``` 
-  _____    __   ____     _____                ___     ___    ___    ___  
- |  __ \  /_ | |___ \   / ____|              |__ \   / _ \  |__ \  |__ \ 
- | |__) |  | |   __) | | |  __     ______       ) | | | | |    ) |    ) |
- |  _  /   | |  |__ <  | | |_ |   |______|     / /  | | | |   / /    / / 
- | | \ \   | |  ___) | | |__| |               / /_  | |_| |  / /_   / /_ 
- |_|  \_\  |_| |____/   \_____|              |____|  \___/  |____| |____|
+  _____    __   ____     _____                ___     ___    ___    ____  
+ |  __ \  /_ | |___ \   / ____|              |__ \   / _ \  |__ \  |___ \ 
+ | |__) |  | |   __) | | |  __     ______       ) | | | | |    ) |   __) |
+ |  _  /   | |  |__ <  | | |_ |   |______|     / /  | | | |   / /   |__ < 
+ | | \ \   | |  ___) | | |__| |               / /_  | |_| |  / /_   ___) |
+ |_|  \_\  |_| |____/   \_____|              |____|  \___/  |____| |____/ 
 ```
 <!--https://www.topster.de/text-to-ascii/big.html-->
 
@@ -12,7 +12,10 @@
 
 I'm a german programmer mostly working in Java and C#.
 
-My most proud accomplishment is my [Livery Manager](https://github.com/RagingLightning/TSW3-LM) for the TrainSimWorld3 Game
+### Projects
+
+- [TS3-Helper](https://github.com/RagingLightning/TS3-Helper) - A companion app for Tower! Simulator 3
+- [Livery Manager for TrainSimWorld3](https://github.com/RagingLightning/TSW3-LM)
 
 ### Stats
 
@@ -20,3 +23,4 @@ My most proud accomplishment is my [Livery Manager](https://github.com/RagingLig
 
 ### Links
 ![](https://dcbadge.vercel.app/api/shield/263726583855054849)
+[![PayPal Donation button](https://pics.paypal.com/00/s/MTEyMjFhNDEtYWNhNy00ZTMxLWIxMjItZWEzZmU2OGYxMWY3/file.PNG)](https://www.paypal.com/donate/?hosted_button_id=DM5BH83828KCL)
