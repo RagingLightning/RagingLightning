@@ -14,7 +14,7 @@ I'm a german programmer mostly working in Java and C#.
 
 ### Projects
 
-- [TS3-Helper](https://github.com/RagingLightning/TS3-Helper) - A companion app for Tower! Simulator 3
+- [TS3 Callsign Helper]([https://github.com/RagingLightning/TS3-Helper](https://github.com/RagingLightning/TS3CallsignHelper)) - A companion app for Tower! Simulator 3
 - [Livery Manager for TrainSimWorld3](https://github.com/RagingLightning/TSW3-LM)
 
 ### Stats
